@@ -1,4 +1,3 @@
-
 export const weakMap = new WeakMap();
 
 // https://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap
